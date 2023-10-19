@@ -1,0 +1,7 @@
+out/
+awesome-go
+
+# Folders
+.idea
+.vscode
+*.exe
