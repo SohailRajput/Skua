@@ -47,6 +47,10 @@ Skua> add mykey "my value"
 ```bash
 Skua> get mykey
 ```
+#### - Update the value associated with a key:
+```bash
+Skua> update mykey "my new value"
+```
 #### - Delete a key:
 ```bash
 Skua> del mykey
